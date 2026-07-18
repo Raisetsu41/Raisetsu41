@@ -30,13 +30,6 @@
 
 <br>
 
-<a href="https://github.com/Raisetsu41">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Raisetsu41&show_icons=true&hide_title=true&hide_border=true&theme=default&bg_color=00000000&text_color=1a1a1a&icon_color=2563eb" />
-</a>
-<a href="https://github.com/Raisetsu41">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisetsu41&layout=compact&hide_title=true&hide_border=true&theme=default&bg_color=00000000&text_color=1a1a1a" />
-</a>
-
 </div>
 
 ---
