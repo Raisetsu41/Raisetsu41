@@ -49,6 +49,17 @@ Interested in the intersection of causal inference, computational statistics, an
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JackeryTU&show_icons=true&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackeryTU)
+
+</div>
+
+---
+
 <div align="center">
 
 ### Stack
