@@ -53,8 +53,8 @@ Interested in the intersection of causal inference, computational statistics, an
 
 <div align="center">
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JackeryTU&show_icons=true&theme=default)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackeryTU)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Raisetsu41&show_icons=true&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raisetsu41)
 
 </div>
 
