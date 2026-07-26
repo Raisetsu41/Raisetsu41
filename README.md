@@ -21,6 +21,10 @@
   <img src="https://cfrating.baoshuo.dev/rating?username=Raisetsu" alt="Codeforces"><br>
   <sub>Codeforces</sub>
 </td>
+<td align="center" width="50%">
+  <img src="https://atrating.baoshuo.dev/rating?username=Raisetsu41" alt="AtCoder"><br>
+  <sub>AtCoder</sub>
+</td>
 </tr>
 </table>
 
@@ -50,7 +54,6 @@ Interested in the intersection of causal inference, computational statistics, an
 <div align="center">
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Raisetsu41&show_icons=true&theme=default)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raisetsu41)
 
 </div>
 
