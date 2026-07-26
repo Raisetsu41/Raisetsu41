@@ -21,10 +21,6 @@
   <img src="https://cfrating.baoshuo.dev/rating?username=Raisetsu" alt="Codeforces"><br>
   <sub>Codeforces</sub>
 </td>
-<td align="center" width="50%">
-  <img src="https://atrating.baoshuo.dev/rating?username=Raisetsu41" alt="AtCoder"><br>
-  <sub>AtCoder</sub>
-</td>
 </tr>
 </table>
 
