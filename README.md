@@ -89,7 +89,7 @@ Piano · Electric guitar (mathrock · midwest-emo · j-rock · Britpop) · Table
 
 <br>
 
-<a href="https://oi.raisetsu41.top/">
+<a href="https://notes.raisetsu41.top/">
   <img src="https://img.shields.io/badge/Visit%20Blog-%E2%86%92-2563eb?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
