@@ -9,7 +9,7 @@
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Blog-raisesetu41.netlify.app-2563eb?style=flat-square&logo=netlify&logoColor=white)](https://oi.raisetsu41.top/)
+[![Blog](https://img.shields.io/badge/Blog-notes.raisetsu41.top-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://notes.raisetsu41.top/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Raisetsu41-fb7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546915092302782)
 [![Email](https://img.shields.io/badge/Email-raisetsuchen@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raisetsuchen@gmail.com)
 
@@ -90,7 +90,7 @@ Piano · Electric guitar (mathrock · midwest-emo · j-rock · Britpop) · Table
 <br>
 
 <a href="https://notes.raisetsu41.top/">
-  <img src="https://img.shields.io/badge/Visit%20Blog-%E2%86%92-2563eb?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Visit%20Blog-%E2%86%92-2563eb?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
