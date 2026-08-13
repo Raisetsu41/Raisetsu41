@@ -49,16 +49,6 @@ Interested in the intersection of causal inference, computational statistics, an
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Raisetsu41&show_icons=true&theme=default)
-
-</div>
-
----
-
 <div align="center">
 
 ### Stack
