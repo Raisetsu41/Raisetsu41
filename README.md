@@ -41,7 +41,7 @@ Former **OIer** (2019.09 — 2024.04.03).
 
 - CSP-S 2021 First Prize (Provincial)
 - CSP-S 2022 First Prize (Provincial)
-- 🥉 NOI 2022 Winter Camp Bronze Medal
+- NOI 2022 Winter Camp **Bronze Medal**🥉
 - CSP-S 2023 First Prize (Provincial)
 - NOIP 2022 First Prize (Provincial)
 - NOIP 2023 First Prize (Provincial)
