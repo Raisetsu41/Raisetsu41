@@ -64,8 +64,7 @@ Interested in the intersection of causal inference, computational statistics, an
 ### Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276dc3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)\
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
