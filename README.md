@@ -4,7 +4,7 @@
 
 ## Raisetsu41
 
-**厦门大学 · 邹至庄经济研究院**  
+**厦门大学 · 邹至庄经济研究院 · 2025本**  
 *Data Science & Economics · 25'*
 
 <br>
