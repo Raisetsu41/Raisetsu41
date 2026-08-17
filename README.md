@@ -36,16 +36,6 @@
 ### About
 
 Former **OIer** (2019.09 — 2024.04.03).   
-**Achievements**
-
-- CSP-S 2021 First Prize (Provincial)
-- CSP-S 2022 First Prize (Provincial)
-- NOIP 2022 First Prize (Provincial)
-- NOI 2022 Winter Camp **Bronze Medal**🥉 (National)
-- CSP-S 2023 First Prize (Provincial)
-- NOIP 2023 First Prize (Provincial)
-
----
 
 Now studying **econometrics** and **data science** at the Chow Institute, Xiamen University.  
 Interested in the intersection of causal inference, computational statistics, and deep (sleeping) learning.
@@ -55,6 +45,18 @@ Interested in the intersection of causal inference, computational statistics, an
 > *No one told you when to run*  
 > *You missed the starting gun*  
 > — Pink Floyd, *The Dark Side of the Moon*
+
+---
+
+### Achievements
+
+- CSP-S 2021 **First Prize** (Provincial)
+- CSP-S 2022 **First Prize** (Provincial)
+- NOIP 2022 **First Prize** (Provincial)
+- NOI 2022 Winter Camp **Bronze Medal**🥉 (National)
+- CSP-S 2023 **First Prize** (Provincial)
+- NOIP 2023 **First Prize** (Provincial)
+- Mathematical Contest in Modeling **Meritorious** (International)
 
 ---
 
