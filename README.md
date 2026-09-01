@@ -37,7 +37,7 @@
 
 Former **OIer** (2019.09 — 2024.04.03).   
 
-Now studying **econometrics** and **data science** at the Chow Institute, Xiamen University.  
+Now studying **economics** and **data science** at the Chow Institute, Xiamen University.  
 Interested in the intersection of causal inference, computational statistics, and deep ~~sleeping~~ learning.
 
 > *And then one day you find*  
