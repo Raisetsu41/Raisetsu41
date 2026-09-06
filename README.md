@@ -9,7 +9,6 @@
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Blog-notes.raisetsu41.top-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://notes.raisetsu41.top/)
 [![Email](https://img.shields.io/badge/Email-raisetsuchen@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raisetsuchen@gmail.com)
 
 <br>
