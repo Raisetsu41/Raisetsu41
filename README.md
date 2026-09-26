@@ -55,7 +55,7 @@ Interested in computational statistics,  deep ~~sleeping~~ learning.
 - NOI 2022 Winter Camp **Bronze Medal**🥉 (National)
 - CSP-S 2023 **First Prize** (Provincial)
 - NOIP 2023 **First Prize** (Provincial)
-- Mathematical Contest in Modeling **Meritorious** (International)
+- 2026 Mathematical Contest in Modeling **Meritorious** (International)
 
 ---
 
